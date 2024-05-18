@@ -2,9 +2,9 @@
 
 Welcome to the **SanskyTech** GitHub organization! 🎉
 
-[sanskytech]()!
-
-
+<p align="center">
+<img src="https://github.com/sanskytech/profile/blob/main/sanskytech.gif" alt="sanskytech"/>
+</p>
 
 ## About Us
 
